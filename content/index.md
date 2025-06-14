@@ -5,4 +5,4 @@ description: My knowledge garden built with Quartz
 
 # Welcome
 
-This is my homepage for notes.
+This is my homepage for DevOps notes.
